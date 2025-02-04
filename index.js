@@ -8,6 +8,18 @@ function adios(){
 }
 
 
+
 function hola2(){
     console.log("HOLA2");
+    console.log("Conflicto");
+    console.log("Conflicto");
+    console.log("Conflicto");
+    console.log("Conflicto");
+    console.log("Conflicto");
+    console.log("Conflicto");
+    console.log("Conflicto");
+    console.log("Conflicto");
 }
+
+console.log("Conflicto");
+
